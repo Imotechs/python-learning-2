@@ -5,10 +5,10 @@ class Dog():
          self.age = age
 
      def sit(self):
-        print(self.name.title() + 'is siting')
+        print(self.name.title() + ' is siting')
 
      def roll(self):
-         print(self.name.title() + 'is rolling')
+         print(self.name.title() + ' is rolling')
 
 mydog = Dog('harry',23)
 print("My dog's name is " + mydog.name.title() + ".")

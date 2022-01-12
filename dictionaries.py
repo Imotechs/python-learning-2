@@ -1,6 +1,6 @@
 #a python dictionary is a collection of ordered, changeable and does
 #  not allow duplicate members
-#from collections import OrderedDict
+from collections import OrderedDict
 mydict = {
     'Name': "Josua",
     'DOB': 1995,

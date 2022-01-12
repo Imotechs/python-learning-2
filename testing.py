@@ -14,3 +14,6 @@ myname('josh','Havertz')
 #Calling p.make_pizza() is more concise than calling pizza.make_pizza():
 import functions as f
 f.welcome('kenneth')
+#You can tell Python to import every function in a module by using the asterisk(*) operator:
+from functions import *#imports all functions from the module functions
+

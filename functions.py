@@ -19,3 +19,4 @@ def my_nick(nick, place_call='FSTC'):
     print(f'my nick name is {nick}, at {place_call}')
 
 my_nick('Spark')
+my_nick('ImoTechs','Uniagric') #this provided argument will overite the default value in the arguiment

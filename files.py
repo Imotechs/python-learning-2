@@ -34,6 +34,4 @@ with open('file2.txt','w') as f: # read and write command check...
    #we can us the seek method here too
    f.seek(1)
    f.write('  ')
-with open('names.txt','w') as f:
-    pass
 
